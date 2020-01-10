@@ -4,9 +4,9 @@ remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this th
 title: Josh Madrone's IT Blog
 subtitle: IT Guru and Linux Sysadmin
 description: >- # this means to ignore newlines until "baseurl:"
-  Josh Madrone is a network engineer, linux systems administrator and web developer
+  Josh Madrone is a network engineer, linux systems administrator, web developer and IT Guru
 
-url: "http://jmadrone.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://josh.madrone.me" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -29,37 +29,37 @@ author_location: Humboldt, CA
 author_website_url: "http://josh.madrone.me"
 
 author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Mattole Salmon Group
+              company_logo: mattolesalmon.png
+              company_url: http://mattolesalmon.org
+              designation: IT Administrator
+              description: Managed file server migration to AWS Cloud, manage IT Security, Desktop Linux/macOS/Windows Sysadmin, maintain WordPress Website and Network Administrator
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: AllcomOne IT Services LLC
+              company_logo: allcomone.png
+              company_url: https://allcomone.com
+              designation: Network Engineer
+              description: Design and implement complex routed LANs & WANs for Schools, Hotels, Small Government & Nongovernment Organizations and Businesses, Enterprise Wireless design & implementation
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: cr.png
+                college_name: College of the Redwoods
+                college_url: https://www.redwoods.edu
+                college_degree: Network Associate
+                description: Certificate
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: allcomone.png
+                project_title: AllcomOne IT Services LLC
+                project_description: Technology Made Simple!
+                project_url: https://www.allcomone.com
                 visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
+              - project_thumbnail: photogrammetry.png
+                project_title: Photogrammetry - UAV Mapping
+                project_description: Making topo maps and digital elevation models with drones
+                project_url: https://maps.allcomone.com
                 visibility: true
 
 # social links
