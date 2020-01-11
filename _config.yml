@@ -6,7 +6,7 @@ subtitle: IT Guru and Linux Sysadmin
 description: >- # this means to ignore newlines until "baseurl:"
   Josh Madrone is a network engineer, linux systems administrator, web developer and IT Guru
 
-url: "https://jmadrone.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://josh.madrone.me" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
