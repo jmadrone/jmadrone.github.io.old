@@ -2,7 +2,7 @@ remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this th
 
 # Edit your preferences below 
 title: Josh Madrone's IT Blog
-subtitle: IT Guru and Linux Sysadmin
+subtitle: IT Guru and Mac / Linux Sysadmin
 description: >- # this means to ignore newlines until "baseurl:"
   Josh Madrone is a network engineer, linux systems administrator, web developer and IT Guru
 
@@ -23,24 +23,31 @@ urls:
 
 author_logo: profile.png
 author: Josh Madrone
-author_bio: Hi, My Name is Josh Madrone. I love to Code and Design. 
+author_bio: Hi, My Name is Josh Madrone. I love to solve computer problems, manage networks, code and design. 
 author_email: "josh@madrone.me"
 author_location: Humboldt, CA
 author_website_url: "https://josh.madrone.me"
 
 author_work_experiences: 
+            - company_name: Emerald Security LLC
+              company_logo: emsec.png
+              company_url: https://emsec.ca
+              designation: IT Systems Engineer & President
+              description: Design, implement, and manage IP Video Surveillance & Intrusion Detection Systems (perimeter security) for businesses of all sizes in and around Humboldt County, CA - in the heart of The Emerald Triangle.
+              visibility: true
             - company_name: Mattole Salmon Group
               company_logo: mattolesalmon.png
-              company_url: http://mattolesalmon.org
-              designation: IT Administrator
-              description: Managed file server migration to AWS Cloud, manage IT Security, Desktop Linux/macOS/Windows Sysadmin, maintain WordPress Website and Network Administrator
+              company_url: https://mattolesalmon.org
+              designation: IT Administrator and Project Coordinator
+              description: Managed migration of file server and backups to public cloud infrastructure. Developed and implemented Information Security Policies and Procedures. Manage SD-WAN, LAN and Firewall. Provide IT Support to users of Windows and Mac workstations Maintain WordPress Website.
               visibility: true
             - company_name: AllcomOne IT Services LLC
               company_logo: allcomone.png
               company_url: https://allcomone.com
               designation: Network Engineer
-              description: Design and implement complex routed LANs & WANs for Schools, Hotels, Small Government & Nongovernment Organizations and Businesses, Enterprise Wireless design & implementation
+              description: Design and implement complex routed LANs & WANs for Schools, Hotels, Small Government & Nongovernment Organizations and Businesses. Enterprise Wireless design, implementation & administration.
               visibility: true
+            
 
 author_education_details:
               - college_logo: cr.png
